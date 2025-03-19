@@ -2,8 +2,8 @@ title: Nighthawk Pages
 description: "Class of 2025"
 owner_name: Prajna Raj
 github_username: prajnar123123213
-github_repo: "prajna_2025" 
-baseurl: "/prajna_2025"
+github_repo: "teaching_fronted" 
+baseurl: "/teaching_frontend"
 future: true
 remote_theme: jekyll/minima
 minima:
